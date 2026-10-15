@@ -1,12 +1,5 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 #create to do stuff
 #welcome user, ask what to add, show tasks in bar, give it a completed, and a not completed Task, and be able to remove
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
-import time
 def menu():
     print("Welcome to the todo list!")
     print("1. Add a task")
